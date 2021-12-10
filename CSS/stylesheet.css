@@ -1,0 +1,22 @@
+li {
+  padding-bottom: 5px;
+}
+
+.scaleImg {
+  width: 180px;
+  height: auto;
+}
+
+.padTd td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+
+thead {
+  background-color: lightgray;
+}
+
+.padForm label {
+  padding-right: 35px;
+}
